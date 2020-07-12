@@ -1,0 +1,1 @@
+Just a amebench in a docker image based on bitnami/minideb
