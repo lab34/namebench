@@ -1,1 +1,1 @@
-Just a amebench in a docker image based on bitnami/minideb
+Just a namebench in a docker image based on bitnami/minideb
